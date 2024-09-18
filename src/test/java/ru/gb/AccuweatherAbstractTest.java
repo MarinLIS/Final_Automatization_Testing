@@ -33,5 +33,4 @@ public abstract class AccuweatherAbstractTest {
     public static String getBaseUrl() {
         return baseUrl;
     }
-
 }
