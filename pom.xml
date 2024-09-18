@@ -3,13 +3,13 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>ru.gb</groupId>
-  <artifactId>Final_Automatization_Testing</artifactId>
+  <artifactId>homework_06_for_Introduction_to_Test_Automation</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Final_Automatization_Testing</name>
+  <name>homework_06_for_Introduction_to_Test_Automation</name>
   <url>http://maven.apache.org</url>
-
+  
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 <!--    Переменные-->
